@@ -1,5 +1,7 @@
 # Frontend Mentor - Suite landing page solution
 
+DEMO https://maksimch1988.github.io/suite-landing-page/
+
 ### Built with
 
 - Semantic HTML5 markup
